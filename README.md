@@ -1,2 +1,3 @@
-# Thesis-2024-Data-Science (Merijn van der Leek)
-# Overleaf: https://www.overleaf.com/4844362898nsgwdmhtsyhp#d7cf2c
+# Thesis 2024 Data Science (Merijn van der Leek)
+# Automating ePub Accessibility Compliance
+## Enhancing Digital Content Accessibility through Language Detection and AI-Generated Alt Text
